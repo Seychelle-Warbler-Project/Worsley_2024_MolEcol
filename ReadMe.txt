@@ -1,5 +1,5 @@
 This folder contains data and R script needed to reproduce the results in the paper:
-Worsley S.F., Davies C.S., Lee C.Z., Mannarelli, ME. et al. Longitudinal gut microbiome dynamics in relation to age and senescence in a wild animal population. Molecular Ecology
+Worsley S.F., Davies C.S., Lee C.Z., Mannarelli, ME. et al. Longitudinal gut microbiome dynamics in relation to age and senescence in a wild animal population. Molecular Ecology, 00, e17477. https://doi.org/10.1111/mec.17477
 
 All variable names in these data should be self-explanatory, but please don't hesitate to send an email to the corresponding author if anything is unclear.
 
